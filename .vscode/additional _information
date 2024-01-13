@@ -1,0 +1,5 @@
+1. First importing fetch module which supports deno
+2. creating async function which will further allow the use of await
+3. setting up github connections and establishing repo names. 
+4. Creating helper functions inside of the async functions which will be used to create repo, issue and test cases
+5. creating the main logic where the 9 test cases will be in asynchronous way while issues and repositories gets created. 
